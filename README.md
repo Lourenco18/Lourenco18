@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Lourenço
 Web Developer 
 * 🌍  I'm based in Porto, Portugal
-* ✉️  You can contact me at [danielsantos7a@hotmail.com](mailto:danielsantos7a@hotmail.com)
+* ✉️  You can contact me at [danielsantos7a@hotmail.com](mailto:contact.lourenco18)
 * 🧠  I'm learning Swift and React
 
 ### Skills  

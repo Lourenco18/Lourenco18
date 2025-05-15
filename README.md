@@ -6,11 +6,7 @@
 
 - 💬 Ask me about **PHP, database logics**
 
-I have some projects in mind that I want to carry out. One of them is my portfolio, where I intend to present all my projects already carried out and future projects, with a backoffice that will allow me to make the necessary changes and add new projects, with images, descriptions, and links that will redirect to the project.
 
-My most ambitious project will be to create a physical progression application, directly related to physical exercise and the gym. It will be possible to monitor the entire process of muscle gain, weight loss, etc... 
-Based on the user's physical condition and future goals, a training plan suitable for each situation will be created, thus helping the user to reach their goal in the most appropriate way. This application will work like a game where there will be process scores and daily objectives, allowing the user to see if they are doing well. 
-It is possible to store the loads of the exercises performed (weight, time, repetitions) and save the weight and physical characteristics throughout the desired process.
 
 ### Skills  
 <h3 align="left">Connect with me:</h3>

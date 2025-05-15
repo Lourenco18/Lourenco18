@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Lourenço</h1>
 <h3 align="center">A developer from Porto, Portugal.</h3>
 
-- 🔭 I’m currently working on **Gym Routine**
 
 - 🌱 I’m currently learning **React, TypeScript and Fullter**
 

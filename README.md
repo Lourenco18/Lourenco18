@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [42 Common-Core](https://github.com/Lourenco18/42-Common-core) and [Progressa](https://github.com/Lourenco18/progressa)
 
-- 🌱 I’m currently learning **C, Python**
-
-- 💬 Ask me about **DataBase**
+- 🌱 I’m currently learning **C, Python, React Native, Ts**
 
 - 📫 How to reach me **contact.lourenco18@gmail.com**
 

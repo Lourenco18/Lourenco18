@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Lourenço</h1>
 <h3 align="center">Programming student at 42 Porto</h3>
 
-- 🔭 I’m currently working on [42 Common-Core](https://github.com/Lourenco18/42-Common-core) and [Progressa](https://github.com/Lourenco18/progressa)
+- 🔭 I’m currently working on [42 Common-Core](https://github.com/Lourenco18/42-Common-core)
 
 - 🌱 I’m currently learning **C, Python, React Native, Ts**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Mygym](https://mygym-wheat.vercel.app/#/)
+- 🔭 I’m currently working on [Mygym](https://mygym-wheat.vercel.app/#/) and [Trading Space]([https://mygym-wheat.vercel.app/#/](https://trading-space-demo.vercel.app))
 
 - 🌱 I’m currently learning **Python**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact.lourenco18@gmail.com**
 
-- 📄 Know about my experiences [Download CV](docs/profile/CV-Daniel%20Louren%C3%A7o.pdf)
+- 📄 Know about my experiences [Download CV](CV-Daniel%20Louren%C3%A7o.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

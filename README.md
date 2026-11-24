@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Developer from Portugal</h3>
 
-🔭 I’m currently working on <a href="https://mygym-wheat.vercel.app/#/" target="_blank" rel="noopener noreferrer">Mygym</a> and <a href="https://trading-space-demo.vercel.app/" target="_blank" rel="noopener noreferrer">Trading Space</a>
+🔭 I’m currently working on <a href="https://mygym-wheat.vercel.app/#/" target="_blank" rel="noopener noreferrer">Mygym</a> and <a href="https://trading-space-demo.vercel.app/" target="_blank" rel="noopener noreferrer">Trading Space</a> and <a href="https://myfinances-phi.vercel.app" target="_blank" rel="noopener noreferrer">My Finances</a>
 </br>
 🌱 I’m currently learning Python
 </br>
